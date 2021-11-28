@@ -26,7 +26,7 @@ body {
 header p {
 	color: #CFF6FF;
 	background-color: #E99B26;
-	font-size: 1.75vw;
+	font-size: 1.75em;
 	text-shadow: 0.4px 0.2px rgba(8, 32, 50, 1.0), 
 	0.6px 0.4px rgba(8, 32, 50, 1.0), 
 	0.8px 0.6px rgba(8, 32, 50, 1.0), 
@@ -84,7 +84,7 @@ header {
 button {
 	font-weight: 750;
 	font-family: 'Bellota Text', cursive;
-	margin: 10px 0px 10px 0px;
+	margin: 10px 20px 10px 0px;
 	padding: 10px 20px;
 	background-color: #082032;
 	border: none;
