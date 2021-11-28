@@ -71,6 +71,7 @@ header {
 .linkek li {
 	display: inline-block;
 	padding: 5px;
+	margin-right: 25px;
 }
 
 .linkek li a {
@@ -84,7 +85,7 @@ header {
 button {
 	font-weight: 750;
 	font-family: 'Bellota Text', cursive;
-	margin: 10px 20px 10px 0px;
+	margin: 10px 25px 10px 0px;
 	padding: 10px 20px;
 	background-color: #082032;
 	border: none;
@@ -141,6 +142,7 @@ footer {
 .linkek2 li {
 	display: inline-block;
 	padding: 5px;
+	margin-right: 25px;
 }
 
 .linkek2 li a {
